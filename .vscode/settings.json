@@ -1,0 +1,10 @@
+{
+  "remote.autoForwardPorts": true,
+  "remote.portsAttributes": {
+    "5254": {
+      "label": "Demo Server Monitoring",
+      "protocol": "http",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}
